@@ -1,0 +1,84 @@
+PROJECT OVERVIEW
+================
+
+Project Title: Online Gaming Website
+
+------------------------------------------------------------
+PROBLEM STATEMENT
+------------------------------------------------------------
+
+The online gaming community lacks a centralized platform that combines
+game discovery, community interaction, and live competitive features in
+a single, fast, and visually engaging experience. Most existing gaming
+portals are either cluttered with ads, slow to load, or fail to give
+players a sense of identity and progression. This project addresses that
+gap by delivering a modern, performance-first gaming website that brings
+together game browsing, user profiles, leaderboards, tournaments, and
+community features under one cohesive brand experience.
+
+------------------------------------------------------------
+PRODUCT VISION
+------------------------------------------------------------
+
+The platform is envisioned as a sleek, dark-themed, high-energy gaming hub
+that feels native to gamers — fast, responsive, and visually striking
+with bold typography, neon accent colours, and motion-driven UI
+elements. The platform should work seamlessly across desktop and
+mobile, support real-time updates (live scores, online status,
+leaderboard changes), and scale from a small indie game catalog to a
+large multi-title library without requiring a redesign.
+
+The website must be built with a component-driven architecture so that
+new pages (new games, new tournaments, new community features) can be
+added without breaking the existing design system.
+
+------------------------------------------------------------
+TARGET USERS
+------------------------------------------------------------
+
+1. Casual Gamers
+   - Browse games, read descriptions, view trailers and screenshots
+   - Create a profile and track favourite games
+
+2. Competitive Players
+   - View leaderboards and rankings
+   - Register for tournaments and track match history
+
+3. Game Publishers / Content Partners
+   - Submit and manage game listings
+   - Access analytics on views and engagement
+
+4. Site Administrators
+   - Moderate community content
+   - Manage featured games, banners, and tournament schedules
+
+------------------------------------------------------------
+CORE FUNCTIONALITY
+------------------------------------------------------------
+
+- Responsive landing page with featured games carousel
+- Game catalog with filtering (genre, platform, rating, release date)
+- Individual game detail pages (description, media gallery, system
+  requirements, ratings/reviews)
+- User authentication (sign up, login, password reset)
+- User profile pages (avatar, bio, favourite games, achievements)
+- Leaderboard / ranking system per game
+- Tournament listing and registration page
+- Community section (forums or comment threads on game pages)
+- Search functionality across the game catalog
+- Dark-mode-first UI with a secondary light theme toggle
+- Fully responsive layout for desktop, tablet, and mobile
+
+------------------------------------------------------------
+SUCCESS CRITERIA
+------------------------------------------------------------
+
+- Website loads core pages in under 3 seconds on a standard broadband
+  connection
+- All pages are fully responsive across breakpoints (320px to 1920px)
+- Navigation between catalog, game detail, profile, and leaderboard
+  pages works without full page reloads where applicable
+- Design system (colours, typography, components) is consistent across
+  every page
+- Codebase is organized, documented, and pushed to a public GitHub
+  repository following the required folder and naming conventions

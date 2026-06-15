@@ -1,0 +1,45 @@
+RUBRICS
+=======
+
+Project Title: Online Gaming Website
+
+Rubric 1: A responsive landing/home page is delivered.
+Rubric 2: The home page includes a hero section with a featured game banner or carousel.
+Rubric 3: The home page includes a "Trending Games" or equivalent section.
+Rubric 4: The home page includes a "New Releases" or equivalent section.
+Rubric 5: A game catalog page listing multiple games is delivered.
+Rubric 6: The catalog page includes filter controls (genre, platform, rating, or release date).
+Rubric 7: The catalog page includes a working search bar.
+Rubric 8: The catalog page includes pagination or infinite scroll.
+Rubric 9: An individual game detail page is delivered.
+Rubric 10: The game detail page displays a media gallery (screenshots or trailer placeholder).
+Rubric 11: The game detail page displays a system requirements table.
+Rubric 12: The game detail page includes a ratings or review section.
+Rubric 13: A sign-up page with username, email, and password fields is delivered.
+Rubric 14: The repository follows the required folder structure and naming convention (first_last format).
+Rubric 15: A login page is delivered.
+Rubric 16: A password reset / forgot password page is delivered.
+Rubric 17: Authentication forms include client-side validation.
+Rubric 18: A user profile page is delivered.
+Rubric 19: The profile page displays avatar, display name, and bio.
+Rubric 20: The profile page displays a list of favourite or saved games.
+Rubric 21: The profile page displays an achievements or badges section.
+Rubric 22: A leaderboard page is delivered.
+Rubric 23: The leaderboard includes a ranked table of players.
+Rubric 24: The leaderboard includes filter options by game or time period.
+Rubric 25: A tournament listing page is delivered.
+Rubric 26: A tournament detail view is delivered with rules and schedule information.
+Rubric 27: A tournament registration form is included.
+Rubric 28: A community/forum thread listing page is delivered.
+Rubric 29: An individual discussion/thread view with comments is delivered.
+Rubric 30: A "New Post" or new thread form is included.
+Rubric 31: A consistent colour palette is defined and applied across all pages.
+Rubric 32: A consistent typography system is applied across all pages.
+Rubric 33: Reusable UI components (buttons, cards, nav bar, footer) are used consistently.
+Rubric 34: The site defaults to a dark theme.
+Rubric 35: A light theme toggle is implemented.
+Rubric 36: All pages are fully responsive across mobile, tablet, and desktop breakpoints.
+Rubric 37: The codebase is organized into a logical folder structure (components, pages, assets, styles).
+Rubric 38: The project is hosted in a public GitHub repository.
+Rubric 39: All required submission files (overview, scope of work, assets, reference image, instructions, rubrics) are present and correctly named.
+Rubric 40: Navigation between all major pages (home, catalog, game detail, profile, leaderboard, tournaments, community) functions without errors.

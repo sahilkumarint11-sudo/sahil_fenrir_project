@@ -1,0 +1,95 @@
+SCOPE OF WORK
+=============
+
+Project Title: Online Gaming Website
+
+------------------------------------------------------------
+WHAT'S INCLUDED
+------------------------------------------------------------
+
+1. Landing / Home Page
+   - Hero section with featured game banner/carousel
+   - "Trending Games" and "New Releases" sections
+   - Quick navigation to catalog, tournaments, and leaderboards
+   - Footer with site links and social icons
+
+2. Game Catalog Page
+   - Grid/list view of all games
+   - Filter and sort controls (genre, platform, rating, release date,
+     popularity)
+   - Search bar with live filtering
+   - Pagination or infinite scroll
+
+3. Game Detail Page
+   - Game title, cover art, and media gallery (screenshots/trailer
+     embed placeholder)
+   - Description, genre tags, platform availability
+   - System requirements table
+   - Ratings and review section (static or mock data acceptable)
+   - "Related Games" section
+
+4. Authentication Pages
+   - Sign Up page (username, email, password fields)
+   - Login page
+   - Password reset / forgot password page
+   - Basic client-side form validation
+
+5. User Profile Page
+   - Avatar, display name, bio
+   - List of favourite/saved games
+   - Achievements or badges section
+   - Match history / activity feed (mock data acceptable)
+
+6. Leaderboard Page
+   - Ranked table of players per game (mock data acceptable)
+   - Filter by game and time period (weekly/monthly/all-time)
+
+7. Tournament Page
+   - List of upcoming and past tournaments
+   - Tournament detail view (rules, prize pool, schedule, registration
+     button)
+   - Registration form (front-end only, no backend payment required)
+
+8. Community / Forum Section
+   - Thread listing page
+   - Individual thread/discussion view with comments
+   - "New Post" form (front-end only)
+
+9. Design System
+   - Defined colour palette, typography, spacing scale
+   - Reusable UI components: buttons, cards, navigation bar, footer,
+     modals, form inputs, badges, tooltips
+   - Dark theme as default, with light theme toggle
+
+10. Responsiveness & Accessibility
+    - All pages responsive across mobile, tablet, and desktop
+    - Semantic HTML structure
+    - Sufficient colour contrast for readability
+    - Keyboard navigable primary navigation and forms
+
+------------------------------------------------------------
+TECHNOLOGY GUIDELINES
+------------------------------------------------------------
+
+- Frontend Framework: React (preferred), or plain HTML/CSS/JavaScript
+  if React is not used
+- Styling: CSS3, SCSS, Tailwind CSS, or styled-components (any one,
+  applied consistently)
+- Version Control: Git, hosted on a public GitHub repository
+- Assets: All images, icons, and fonts must be either original,
+  open-source, or properly licensed for use
+- Code Quality: Components should be modular, named clearly, and
+  organized into a logical folder structure (e.g., /components,
+  /pages, /assets, /styles)
+
+------------------------------------------------------------
+MILESTONES
+------------------------------------------------------------
+
+1. Wireframes / Layout Planning — page structure and component map
+2. Design System Setup — colours, typography, base components
+3. Core Pages Build — home, catalog, game detail
+4. Secondary Pages Build — auth pages, profile, leaderboard
+5. Tournament & Community Pages — final feature set
+6. Responsiveness Pass & QA — cross-device testing and bug fixes
+7. Final Packaging — repository cleanup, documentation, and submission
